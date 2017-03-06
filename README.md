@@ -1,7 +1,7 @@
 # TSizeCtrl
 Non-visual Delphi component to enable runtime moving and resizing of controls.
 
-# Author: Angus Johnson's
+# Author: Angus Johnson
 http://angusj.com/delphi/
 
 http://angusj.com/delphi/sizectrl.html
