@@ -781,7 +781,7 @@ begin
       end else
         DefaultProc(Msg);
 
-    WM_GETDLGCODE: Msg.Result := DLGC_WANTTAB;
+    WM_GETDLGCODE: Msg.Result := DLGC_WANTTAB or DLGC_WANTARROWS;
 
     WM_KEYDOWN:
       begin
